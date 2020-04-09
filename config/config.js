@@ -1,0 +1,1 @@
+module.exports.SEED = 'passw0rd-secreto';
